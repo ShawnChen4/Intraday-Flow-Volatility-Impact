@@ -1,0 +1,2 @@
+# Intraday Flow & Volatility Impact Analysis
+This project studies how abnormal intraday trading activity (order flow) affects short‑horizon returns, volatility, and liquidity using minute‑level equity data. It builds a simple research framework to detect extreme flow events and analyze whether prices tend to continue (momentum) or reverse (mean reversion) after these shocks under different market conditions.
